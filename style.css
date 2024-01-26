@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(46, 41, 41)
+}
+.container {
+    text-align: center;
+    margin-top: 100px;
+    width: 500px;
+    height: 200px;
+    background: grey;
+    margin-left: 450px;
+  }
+
+  h1 {
+    color: #333;
+    padding-bottom: 20px;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+  }
+
+  #jokeText {
+    margin-top: 20px;
+  }
